@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Entrenamiento.unity
+    guid: e286367b5714bab428074e28565446ca
+  - enabled: 1
+    path: Assets/Scenes/PolExterior.unity
+    guid: 0e594351b05e3dc41bce8cfe9dad0dc1
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8647d11ee84392b488583c7660126c60,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ee9785b2973217a49b66c0c8b7da13e9,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: db95a1e8d1dba5e4b979921eab5d65c6,
+      type: 2}
